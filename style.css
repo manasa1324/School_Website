@@ -1,0 +1,18 @@
+body
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 14px;
+    color: darkblue;
+    background-color: cyan;
+}
+
+marquee
+{
+    background-color: dodgerblue;
+    font-size: 20px;
+}
+.details
+{
+    font-size: 15px;
+}
